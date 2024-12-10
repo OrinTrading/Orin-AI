@@ -1,1 +1,4 @@
-
+class Config:
+    INITIAL_FUNDS = 1000
+    RISK_TOLERANCE = 0.1
+    PROFIT_TARGET = 0.2
