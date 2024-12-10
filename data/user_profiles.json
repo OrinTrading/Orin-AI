@@ -1,1 +1,7 @@
+{
+    "profiles": [
+        {"name": "Alice", "balance": 5000},
+        {"name": "Bob", "balance": 3000}
+    ]
+}
 
