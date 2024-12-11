@@ -1,6 +1,6 @@
-# Orin AI
+# Axon AI
 
-Orin AI is a trading assistant designed to optimize digital asset management. It uses advanced market analysis, risk management, and AI-driven strategies to automate trading.
+Axon AI is a trading assistant designed to optimize digital asset management. It uses advanced market analysis, risk management, and AI-driven strategies to automate trading.
 
 ---
 
@@ -10,7 +10,7 @@ Orin AI is a trading assistant designed to optimize digital asset management. It
 - **modules**: Modules handling wallet management, market analysis, trading execution, and more.
 - **utils**: Helper functions like logging and data handling.
 - **data**: Market data and user profile files.
-- **tests**: Unit tests for Orin AI's components.
+- **tests**: Unit tests for Axon AI's components.
 - **docs**: Documentation including README and contributing guidelines.
 
 ---
